@@ -1,5 +1,7 @@
 # Yeoman generator for Angular + Ionic CLI
-Use Ionic framework with sensible defaults and best practices for AngularJS development. yo-angular-ionic-cli is a starter project for [Ionic](http://ionicframework.com/) Framework that was generated using [AngularJS generator](https://github.com/yeoman/generator-angular/) and [Ionic CLI](https://github.com/driftyco/ionic-cli).
+Use Ionic framework with sensible defaults and best practices for AngularJS development. yo-angular-ionic-cli is a starter project for [Ionic](http://ionicframework.com/) Framework that was generated using [AngularJS generator](https://github.com/yeoman/generator-angular/) and [Ionic CLI](https://github.com/driftyco/ionic-cli). By using this starter project, you will have access to both [AngularJS generator](https://github.com/yeoman/generator-angular/) and [Ionic CLI](https://github.com/driftyco/ionic-cli) so that you can have the confidence you are following the best practices and your tools will not go out of date.
+
+Inspired by https://github.com/diegonetto/generator-ionic.
 
 ## Setup
 
