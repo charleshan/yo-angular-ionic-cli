@@ -28,4 +28,21 @@ Run `grunt` for building and `grunt serve` for preview
 
 Run `ionic build` after `grunt` in order to build to platforms
 
+
+## Angular Generators
+
+Summary of Yeoman generators for AngularJs:
+
+* yo angular:controller
+* yo angular:directive
+* yo angular:filter
+* yo angular:route
+* yo angular:service
+* yo angular:provider
+* yo angular:factory
+* yo angular:value
+* yo angular:constant
+* yo angular:decorator
+* yo angular:view
+
 Please visit [AngularJS generator](https://github.com/yeoman/generator-angular/) and [Ionic CLI](https://github.com/driftyco/ionic-cli) for detailed documentations.
